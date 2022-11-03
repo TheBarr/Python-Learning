@@ -2,7 +2,7 @@ import random
 print("Witaj w wisielcu, podaj swoje imię: ")
 imie = input()
 
-lista = ["sekret","dupa","woda","monitor","pajton"]
+lista = ["sekret","git","woda","monitor","pajton"]
 haslo = str(lista[random.randint(0,len(lista) -1)])
 tablica = list(haslo)
 
