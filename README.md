@@ -1,2 +1,2 @@
 # Python-Learning
-Projects form learning
+Python learning projects
