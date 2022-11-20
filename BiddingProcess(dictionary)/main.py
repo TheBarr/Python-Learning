@@ -8,7 +8,7 @@ while repeat:
     print("Welcom to the secred auaction program.")
     name = input("What's your name?: ")
     bid = input("What's your bid?: ")
-    again = input("Is there any other bides? (yes/no): ").lower()
+    again = input("Are there any other bids? (yes/no): ").lower()
     values[name] = bid
     if again == "no":
         repeat = False
