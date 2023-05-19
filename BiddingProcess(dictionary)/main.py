@@ -5,7 +5,7 @@ print(logo)
 values = {}
 repeat = True
 while repeat:
-    print("Welcom to the secred auaction program.")
+    print("Welcme to the secred auaction program.")
     name = input("What's your name?: ")
     bid = input("What's your bid?: ")
     again = input("Are there any other bids? (yes/no): ").lower()
